@@ -139,4 +139,5 @@ Il existe certaines exceptions historiques comme `alert` ou des appels XHR synch
 
 ## Spécifications
 
-{{Specifications}}
+- [Boucles d'événements dans la norme du HTML](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops)
+- [Boucles d'événement en Node.js](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#what-is-the-event-loop)
