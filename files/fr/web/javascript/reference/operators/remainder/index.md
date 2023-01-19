@@ -1,5 +1,5 @@
 ---
-title: Reste (%)
+title: Modulo (%)
 slug: Web/JavaScript/Reference/Operators/Remainder
 tags:
   - JavaScript
